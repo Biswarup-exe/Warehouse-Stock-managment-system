@@ -8,3 +8,4 @@ Requirments:
 3. Python
 4. Anaconda desktop
 5. py My sql(pip install PyMySQL)
+6. Pretty Tables (pip install pretty-tables)
